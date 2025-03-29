@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sava</h1>
+
+- 🌱 <b>Studying</b> at Lobachevsky University
+- 📚 <b>Awaiting results</b> from School 21 (S21)
+- ⚡ <b>Seeking opportunities</b> in Data Analysis
+- 📫 How to reach me:<br>
+	mail: darkvolvet@icloud.com <br>
+	tg: https://t.me/iamvolvet <br>
 
 <!--
 **volvetcode/volvetcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
