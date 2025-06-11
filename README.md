@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sava</h1>
 
 - 🌱 <b>Studying</b> at Lobachevsky University
-- 📚 <b>Awaiting results</b> from School 21 (S21)
+- 📚 <b>Got into</b> School 21 (S21)
 - ⚡ <b>Seeking opportunities</b> in Data Analysis
 - 📫 How to reach me:<br>
 	mail: darkvolvet@icloud.com <br>
