@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sava</h1>
+<h1 align="center">Hi, I'm Savely!</h1>
 
 - 🌱 <b>Studying</b> at Lobachevsky University
 - 📚 <b>Got into</b> School 21 (S21)
