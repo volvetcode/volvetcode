@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Savely!</h1>
 
-- 🌱 <b>Studying</b> at Lobachevsky University
-- 📚 <b>Got into</b> School 21 (S21)
-- ⚡ <b>Seeking opportunities</b> in Data Analysis
+- 🌱 <b>Pursuing a degree</b> at Lobachevsky University
+- 📚 <b>Mastering Data Science</b> at School 21 (S21)
+- ⚡ <b>Seeking opportunities</b> in Data Analysis/ML
 - 📫 How to reach me:<br>
 	mail: darkvolvet@icloud.com <br>
-	tg: https://t.me/iamvolvet <br>
+	tg: https://t.me/amvolvet <br>
 
 <!--
 **volvetcode/volvetcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
