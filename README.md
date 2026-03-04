@@ -5,7 +5,7 @@
 - ⚡ <b>Seeking opportunities</b> in Data Analysis/ML
 - 📫 How to reach me:<br>
 	mail: darkvolvet@icloud.com <br>
-	tg: https://t.me/amvolvet <br>
+	tg: https://t.me/iamvolvet <br>
 
 <!--
 **volvetcode/volvetcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
