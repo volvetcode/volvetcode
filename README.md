@@ -2,9 +2,9 @@
 
 - 🌱 <b>Pursuing a degree</b> at Lobachevsky University
 - 📚 <b>Mastering Data Science</b> at School 21 (S21)
-- ⚡ <b>Seeking opportunities</b> in Data Analysis/ML
+- ⚡ <b>Seeking opportunities</b> in AI/DS/ML
 - 📫 How to reach me:<br>
-	mail: darkvolvet@icloud.com <br>
+	mail: savelytest@yandex.ru <br>
 	tg: https://t.me/iamvolvet <br>
 
 <!--
